@@ -23,7 +23,10 @@ public class operarrays {
 		}
 		
 	}
+
 	//hola3
+
+	
 	public static void sumarray() {
 		int suma=0;
 		for(int i=0;i<array.length;i++) {
