@@ -23,7 +23,7 @@ public class operarrays {
 		}
 		
 	}
-	//hola
+
 	
 	public static void sumarray() {
 		int suma=0;
